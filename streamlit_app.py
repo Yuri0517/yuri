@@ -1,7 +1,7 @@
 # Streamlitライブラリをインポート
 import streamlit as st
 
-import ramdom
+import random
 
 # タイトルを設定
 st.title('おみくじアプリ')
